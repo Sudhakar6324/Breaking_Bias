@@ -29,13 +29,13 @@ pip install torch torchvision transformers pandas scikit-learn tqdm opencv-pytho
 1. **Open the Jupyter Notebook (**``**)**:
 
    - Run all cells step by step to train and evaluate the model.
-   - Ensure `train_features.pkl` and `test_features.pkl` are in the same directory.
+   - Ensure `train_features.pkl` and `test_features_corrected.pkl` are in the same directory.
 
 2. **Extracted Features**:
 
    - The model uses pre-extracted features from Vision Transformer (ViT):
      - `train_features.pkl` (Training Data Features)
-     - `test_features.pkl` (Test Data Features)
+     - `test_features_corrected.pkl` (Test Data Features)
    - These files must be loaded correctly in the notebook before training.
 
 3. **Evaluate the Model & Generate Predictions:**
