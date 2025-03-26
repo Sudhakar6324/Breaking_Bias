@@ -90,3 +90,8 @@ The bonus task (people count prediction) adds an **extra 10 points**.
 ## Confusion Matrix
 
 A confusion matrix is also generated to visualize model performance.
+## Team Name:Duke Maharaj
+
+## Team members:
+   1.edula vinay kumar reddy
+   2.telugu sudhakar
